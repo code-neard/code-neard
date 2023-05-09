@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Just+love+coding&center=true&vCenter=true&width=800)](https://git.io/typing-svg) 
+### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Just+love+coding&center=true&vCenter=true&width=800&size=30)](https://git.io/typing-svg) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-neard)](https://github.com/anuraghazra/github-readme-stats)
 
